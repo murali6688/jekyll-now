@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Analyst with over 9 years of experience in Contact Centre and Hyperlocal Logistics space.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[murali6688@gmail.com](mailto:murali6688@gmail.com)
